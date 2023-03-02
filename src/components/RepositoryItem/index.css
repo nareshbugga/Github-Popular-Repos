@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.repos-image {
+  width: 130px;
+  height: 130px;
+}
+.list-container {
+  background-color: #f8f8ff;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+.repos-heading {
+  color: #e73959;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.count-image {
+  width: 15px;
+  height: 15px;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+.flex-count {
+  display: flex;
+}
+.count-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-left: 10px;
+}

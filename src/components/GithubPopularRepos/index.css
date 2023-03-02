@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.popular-heading {
+  font-family: 'Lobster';
+  font-weight: bold;
+}
+.filter-list-container {
+  list-style-type: none;
+  display: flex;
+}
+.repos-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.popular-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  width: 500px;
+  height: 400px;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.filter-button {
+  border: none;
+  background-color: transparent;
+  font-weight: 500;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
+.filter-list {
+  margin-right: 15px;
+}
+.active-style {
+  width: 75px;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  padding: 5px;
+}
